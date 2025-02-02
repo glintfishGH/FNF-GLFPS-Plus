@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="opponent.png" width="3506" height="1077" spritePadding="1" borderPadding="1">
+	<SubTexture name="Pose Down10000" x="2566" y="1" width="452" height="565" rotated="true" frameX="-11" frameY="-21" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Pose Down10001" x="2566" y="1" width="452" height="565" rotated="true" frameX="-11" frameY="-21" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Pose Down10002" x="1646" y="575" width="579" height="469" frameX="0" frameY="0" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Pose Down10003" x="1646" y="575" width="579" height="469" frameX="0" frameY="0" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Pose Down10004" x="1646" y="575" width="579" height="469" frameX="0" frameY="0" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Pose Down10005" x="1646" y="575" width="579" height="469" frameX="0" frameY="0" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Pose Down10006" x="1646" y="575" width="579" height="469" frameX="0" frameY="0" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Pose Down10007" x="1646" y="575" width="579" height="469" frameX="0" frameY="0" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Pose Down10008" x="1646" y="575" width="579" height="469" frameX="0" frameY="0" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Pose Down10009" x="1646" y="575" width="579" height="469" frameX="0" frameY="0" frameWidth="580" frameHeight="469"/>
+	<SubTexture name="Idle10000" x="1" y="1" width="425" height="553" frameX="-1" frameY="-19" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10001" x="1" y="1" width="425" height="553" frameX="-1" frameY="-19" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10002" x="427" y="1" width="427" height="556" frameX="0" frameY="-17" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10003" x="427" y="1" width="427" height="556" frameX="0" frameY="-17" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10004" x="855" y="1" width="424" height="560" frameX="-5" frameY="-13" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10005" x="855" y="1" width="424" height="560" frameX="-5" frameY="-13" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10006" x="1280" y="1" width="427" height="572" frameX="-5" frameY="-1" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10007" x="1708" y="1" width="428" height="572" frameX="-4" frameY="-1" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10008" x="2137" y="1" width="428" height="573" frameX="-4" frameY="0" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10009" x="2137" y="1" width="428" height="573" frameX="-4" frameY="0" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10010" x="2137" y="1" width="428" height="573" frameX="-4" frameY="0" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10011" x="2137" y="1" width="428" height="573" frameX="-4" frameY="0" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10012" x="2137" y="1" width="428" height="573" frameX="-4" frameY="0" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Idle10013" x="2137" y="1" width="428" height="573" frameX="-4" frameY="0" frameWidth="428" frameHeight="573"/>
+	<SubTexture name="Pose Left10000" x="1" y="575" width="525" height="501" rotated="true" frameX="0" frameY="-16" frameWidth="502" frameHeight="542"/>
+	<SubTexture name="Pose Left10001" x="1" y="575" width="525" height="501" rotated="true" frameX="0" frameY="-16" frameWidth="502" frameHeight="542"/>
+	<SubTexture name="Pose Left10002" x="3019" y="1" width="486" height="541" frameX="-18" frameY="-1" frameWidth="502" frameHeight="542"/>
+	<SubTexture name="Pose Left10003" x="3019" y="1" width="486" height="541" frameX="-18" frameY="-1" frameWidth="502" frameHeight="542"/>
+	<SubTexture name="Pose Left10004" x="3019" y="1" width="486" height="541" frameX="-18" frameY="-1" frameWidth="502" frameHeight="542"/>
+	<SubTexture name="Pose Left10005" x="3019" y="1" width="486" height="541" frameX="-18" frameY="-1" frameWidth="502" frameHeight="542"/>
+	<SubTexture name="Pose Left10006" x="3019" y="1" width="486" height="541" frameX="-18" frameY="-1" frameWidth="502" frameHeight="542"/>
+	<SubTexture name="Pose Left10007" x="3019" y="1" width="486" height="541" frameX="-18" frameY="-1" frameWidth="502" frameHeight="542"/>
+	<SubTexture name="Pose Right10000" x="527" y="575" width="557" height="483" rotated="true" frameX="-12" frameY="-3" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Right10001" x="527" y="575" width="557" height="483" rotated="true" frameX="-12" frameY="-3" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Right10002" x="1085" y="575" width="560" height="482" rotated="true" frameX="0" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Right10003" x="1085" y="575" width="560" height="482" rotated="true" frameX="0" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Right10004" x="1085" y="575" width="560" height="482" rotated="true" frameX="0" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Right10005" x="1085" y="575" width="560" height="482" rotated="true" frameX="0" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Right10006" x="1085" y="575" width="560" height="482" rotated="true" frameX="0" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Right10007" x="1085" y="575" width="560" height="482" rotated="true" frameX="0" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Right10008" x="1085" y="575" width="560" height="482" rotated="true" frameX="0" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Right10009" x="1085" y="575" width="560" height="482" rotated="true" frameX="0" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="Pose Up10000" x="2837" y="575" width="620" height="492" rotated="true" frameX="0" frameY="-1" frameWidth="499" frameHeight="621"/>
+	<SubTexture name="Pose Up10001" x="2837" y="575" width="620" height="492" rotated="true" frameX="0" frameY="-1" frameWidth="499" frameHeight="621"/>
+	<SubTexture name="Pose Up10002" x="2226" y="575" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="499" frameHeight="621"/>
+	<SubTexture name="Pose Up10003" x="2226" y="575" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="499" frameHeight="621"/>
+	<SubTexture name="Pose Up10004" x="2226" y="575" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="499" frameHeight="621"/>
+	<SubTexture name="Pose Up10005" x="2226" y="575" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="499" frameHeight="621"/>
+	<SubTexture name="Pose Up10006" x="2226" y="575" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="499" frameHeight="621"/>
+	<SubTexture name="Pose Up10007" x="2226" y="575" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="499" frameHeight="621"/>
+	<SubTexture name="Pose Up10008" x="2226" y="575" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="499" frameHeight="621"/>
+	<SubTexture name="Pose Up10009" x="2226" y="575" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="499" frameHeight="621"/>
+</TextureAtlas>
